@@ -1,15 +1,15 @@
 package ee.informaatik.jokeapp.services;
 
-import guru.springframework.norris.chuck.ChuckNorrisQuotes;
+import ee.informaatik.jokeapp.ChuckNorriseNaljad;
 import org.springframework.stereotype.Service;
 
 @Service
 public class JokeServiceImpl implements JokeService {
 
-    private final ChuckNorrisQuotes chuckNorrisQuotes;
+    private final ChuckNorriseNaljad chuckNorrisQuotes;
 
     public JokeServiceImpl() {
-        this.chuckNorrisQuotes = new ChuckNorrisQuotes();
+        this.chuckNorrisQuotes = new ChuckNorriseNaljad();
     }
 
     @Override
