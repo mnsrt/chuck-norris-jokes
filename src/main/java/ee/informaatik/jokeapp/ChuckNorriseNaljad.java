@@ -46,7 +46,14 @@ public class ChuckNorriseNaljad {
                 "Chuck Norrisel on kodus põrandal grislikaru vaip. Karu pole surnud, ta lihtsalt ei julge liigutada.",
                 "Chuck Norris ei helista valel numbril. Sa lihtsalt vastad valele telefonile.",
                 "Chuck Norris suri 20 aastat tagasi, kuid Surm kogub veel julgust, et talle seda öelda.",
-                "Chuck Norris ei maga. Ta ootab."
+                "Chuck Norris ei maga. Ta ootab.",
+                "Kui sul on 5 eurot ja Chuck Norrisel on 5 eurot, siis Chuck Norrisel on rohkem.",
+                "Kord pidas liikluspolitsei Chuck Norrise kinni. Liikluspolitsei pääses hoiatusega",
+                "Chuck Norris sõi ükskord terve tordi ära, enne kui sõbrad jõudsid öelda, et seal oli strippar ka sees",
+                "Chuck Norris suudab silmad lahti aevastada.",
+                "Chuck Norris on käinud Marsil – sellepärast pole seal elu.",
+                "Chuck Norris jookseb 100 meetrit ühe sekundiga, sest ta teab lühemat teed.",
+                "Chuck Norris oskab musti pliiatseid värvi järgi sorteerida."
         );
     }
 
