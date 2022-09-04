@@ -1,1 +1,3 @@
-Simple Chuck Norris jokes app in Estonian using Java 17 and Thymeleaf
+#### Chuck Norris jokes app 
+- Java 17
+- Thymeleaf
